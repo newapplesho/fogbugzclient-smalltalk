@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FGBCreateNewCaseJsonApiCommand",
+	"pools" : [
+		 ],
+	"super" : "FGBCaseJsonApiCommand",
+	"type" : "normal" }

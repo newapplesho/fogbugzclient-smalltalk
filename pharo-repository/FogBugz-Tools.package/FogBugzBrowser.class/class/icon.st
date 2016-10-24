@@ -1,0 +1,4 @@
+accessing
+icon
+
+	^FGBIconCache fogBugzIcon

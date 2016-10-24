@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Tools-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Icons" ],
+	"commentStamp" : "TorstenBergmann 3/22/2016 08:17",
+	"instvars" : [
+		 ],
+	"name" : "FGBIconCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

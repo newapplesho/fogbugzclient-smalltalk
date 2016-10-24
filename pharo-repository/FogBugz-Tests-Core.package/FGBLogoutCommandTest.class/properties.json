@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Tests-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"command" ],
+	"name" : "FGBLogoutCommandTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

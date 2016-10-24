@@ -1,0 +1,19 @@
+{
+	"category" : "FogBugz-Tools-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/22/2016 08:16",
+	"instvars" : [
+		"client",
+		"casesModel",
+		"toolBar",
+		"mainMenu",
+		"statusBar",
+		"casesSearchField" ],
+	"name" : "FogBugzBrowser",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

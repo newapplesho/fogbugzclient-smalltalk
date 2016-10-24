@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfFogBugz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "TorstenBergmann 3/25/2016 00:48",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfFogBugz",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

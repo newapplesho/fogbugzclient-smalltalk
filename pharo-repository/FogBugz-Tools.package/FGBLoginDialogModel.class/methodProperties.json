@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultSpec" : "TorstenBergmann 3/22/2016 08:09",
+		"getCredentials" : "TorstenBergmann 3/22/2016 08:12" },
+	"instance" : {
+		"credentials" : "TorstenBergmann 3/22/2016 08:11",
+		"initialExtent" : "TorstenBergmann 3/22/2016 08:11",
+		"initializeWidgets" : "TorstenBergmann 3/22/2016 08:13",
+		"passwordField" : "TorstenBergmann 3/22/2016 08:10",
+		"passwordField:" : "TorstenBergmann 3/22/2016 08:10",
+		"passwordLabel" : "TorstenBergmann 3/22/2016 08:10",
+		"passwordLabel:" : "TorstenBergmann 3/22/2016 08:10",
+		"title" : "TorstenBergmann 3/22/2016 08:11",
+		"usernameField" : "TorstenBergmann 3/22/2016 08:10",
+		"usernameField:" : "TorstenBergmann 3/22/2016 08:10",
+		"usernameLabel" : "TorstenBergmann 3/22/2016 08:11",
+		"usernameLabel:" : "TorstenBergmann 3/22/2016 08:11" } }

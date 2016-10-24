@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/21/2016 19:43",
+	"instvars" : [
+		 ],
+	"name" : "FGBCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

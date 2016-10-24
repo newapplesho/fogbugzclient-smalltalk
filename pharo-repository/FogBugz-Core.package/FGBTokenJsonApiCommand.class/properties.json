@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FGBTokenJsonApiCommand",
+	"pools" : [
+		 ],
+	"super" : "FGBJsonApiCommand",
+	"type" : "normal" }

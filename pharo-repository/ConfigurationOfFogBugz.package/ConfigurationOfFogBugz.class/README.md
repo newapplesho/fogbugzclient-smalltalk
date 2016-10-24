@@ -1,0 +1,1 @@
+A configuration for a simple tool to access Pharo FogBugz

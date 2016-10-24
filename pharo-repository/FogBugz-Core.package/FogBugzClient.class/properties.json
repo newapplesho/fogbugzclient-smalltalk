@@ -1,0 +1,16 @@
+{
+	"category" : "FogBugz-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/21/2016 21:51",
+	"instvars" : [
+		"token",
+		"errors",
+		"jsonAPILocation" ],
+	"name" : "FogBugzClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

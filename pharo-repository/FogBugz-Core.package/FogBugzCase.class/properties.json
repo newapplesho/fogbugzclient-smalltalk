@@ -1,0 +1,16 @@
+{
+	"category" : "FogBugz-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/21/2016 21:24",
+	"instvars" : [
+		"id",
+		"title",
+		"status" ],
+	"name" : "FogBugzCase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

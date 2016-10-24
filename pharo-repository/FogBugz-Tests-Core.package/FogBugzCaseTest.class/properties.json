@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Tests-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FogBugzCaseTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

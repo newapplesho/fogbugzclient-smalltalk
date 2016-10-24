@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"forMenu:" : "TorstenBergmann 12/30/2015 11:41" },
+	"instance" : {
+		"addItem:action:" : "TorstenBergmann 12/30/2015 11:09",
+		"addItem:icon:action:" : "TorstenBergmann 12/30/2015 11:09",
+		"addItem:icon:subMenu:" : "TorstenBergmann 12/30/2015 11:09",
+		"addItem:subMenu:" : "TorstenBergmann 12/30/2015 11:09",
+		"group" : "TorstenBergmann 12/30/2015 11:30",
+		"initialize" : "TorstenBergmann 3/24/2016 21:58",
+		"menu" : "TorstenBergmann 12/30/2015 11:31",
+		"menu:" : "TorstenBergmann 12/30/2015 11:31" } }

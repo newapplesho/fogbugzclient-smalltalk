@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "TorstenBergmann 3/21/2016 21:44",
+		"testInstanceCreation" : "TorstenBergmann 3/21/2016 21:41",
+		"testRequiresSession" : "TorstenBergmann 3/21/2016 21:44" } }

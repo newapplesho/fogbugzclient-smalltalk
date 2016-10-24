@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/21/2016 20:40",
+	"instvars" : [
+		 ],
+	"name" : "FGBLogoutCommand",
+	"pools" : [
+		 ],
+	"super" : "FGBTokenCommand",
+	"type" : "normal" }

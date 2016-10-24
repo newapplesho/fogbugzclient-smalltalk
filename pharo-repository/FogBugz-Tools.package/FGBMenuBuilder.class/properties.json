@@ -1,0 +1,14 @@
+{
+	"category" : "FogBugz-Tools-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 12/30/2015 11:33",
+	"instvars" : [
+		"menu" ],
+	"name" : "FGBMenuBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

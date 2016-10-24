@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"example" : "TorstenBergmann 3/21/2016 21:50",
+		"loginUser:password:" : "TorstenBergmann 3/21/2016 20:03" },
+	"instance" : {
+		"errors" : "TorstenBergmann 3/22/2016 09:57",
+		"executeCommand:" : "TorstenBergmann 3/21/2016 21:01",
+		"isLoggedIn" : "TorstenBergmann 3/21/2016 20:15",
+		"jsonAPILocation" : "ShoYoshida 9/24/2016 13:28",
+		"jsonAPILocation:" : "ShoYoshida 9/24/2016 13:28",
+		"login:password:" : "TorstenBergmann 3/21/2016 21:57",
+		"logout" : "TorstenBergmann 3/21/2016 21:09",
+		"query:" : "TorstenBergmann 3/24/2016 23:33",
+		"readErrorsFrom:" : "TorstenBergmann 3/21/2016 20:23",
+		"summarizedErrors" : "TorstenBergmann 3/22/2016 09:58" } }

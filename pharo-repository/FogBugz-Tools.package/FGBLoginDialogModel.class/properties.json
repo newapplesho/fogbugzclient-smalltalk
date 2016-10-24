@@ -1,0 +1,17 @@
+{
+	"category" : "FogBugz-Tools-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/22/2016 08:09",
+	"instvars" : [
+		"usernameLabel",
+		"usernameField",
+		"passwordLabel",
+		"passwordField" ],
+	"name" : "FGBLoginDialogModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

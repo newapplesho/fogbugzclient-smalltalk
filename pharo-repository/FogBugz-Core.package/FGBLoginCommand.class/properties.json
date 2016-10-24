@@ -1,0 +1,15 @@
+{
+	"category" : "FogBugz-Core-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/21/2016 19:43",
+	"instvars" : [
+		"email",
+		"password" ],
+	"name" : "FGBLoginCommand",
+	"pools" : [
+		 ],
+	"super" : "FGBCommand",
+	"type" : "normal" }

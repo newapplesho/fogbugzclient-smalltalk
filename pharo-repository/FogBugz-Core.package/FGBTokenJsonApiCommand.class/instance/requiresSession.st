@@ -1,0 +1,4 @@
+testing
+requiresSession
+
+	^true
